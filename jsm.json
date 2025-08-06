@@ -11,46 +11,84 @@
 			"indexs":1,
 			"ext": "./lib/tokenm.json$$$./lib/douban.json"
 		},
-		{"key":"TGDouban","name":"TG豆瓣","type":3,"api":"csp_TGDouban","timeout":120, 
+
+
+
+   {
+            "key":"Youtube",
+            "name":"✨Youtube",
+            "type":3,
+            "api": "csp_Youtube",
+            "searchable": 1,
+            "quickSearch": 0,
+            "changeable": 0,
+            "timeout": 60,
+            "ext":{
+                "token":"./lib/tokenm.json",
+                "json":"./lib/youtubea.json",
+                "type":"直播#新闻#剧集#电影#综艺#纪录片#音乐#体育#动物#风光#放松#4K#HDR#movie#music#documentary#bbc documentary#national geographic documentary",
+                "keywords":"排行榜,HOT,TRENDS,热门话题,热门趋势,热门综艺,热门电影,热门电视剧,小姐姐",
+                "codecs":"avc",
+                "proxy":"proxy",
+                "danmu":true
+            }
+
+        },
+
+    
+
+{
+        "key":"TGDouban①",
+        "name":"🎀TG豆瓣①",
+        "type":3,
+        "api":"csp_TGDouban",
+        "timeout":120, 
 			"ext":{
 				"token":"./lib/tokenm.json",
 				"json":"./lib/tgsearch.json",
 				"keywords":"名称,片名,推荐",
 				"tgsearch_url":"http://127.0.0.1:10199",
 				"tgsearch_media_url":"http://127.0.0.1:10199",
-				"channellist":"tgsearchers,leoziyuan,ucpanpan,pan123pan,zyfb123,zyzhpd123,xx123pan,tianyi_pd2,tianyirigeng,tyypzhpd,cloudtianyi,kuakeclound,ydypzyfx,clouddriveresources,NewQuark,New_Sharing,alypzyhzq|1000,Mbox115|1000,shares_115|1000,wanwansubchat|1000",
+				"channellist":"tgsearchers2,leoziyuan,ucpanpan,pan123pan,zyfb123,zyzhpd123,xx123pan,tianyi_pd2,tianyirigeng,tyypzhpd,cloudtianyi,kuakeclound,ydypzyfx,clouddriveresources,NewQuark,New_Sharing,alypzyhzq|1000,wanwansubchat|1000",
 				"proxy":"noproxy",
 				"douban":"./lib/douban.json",
 				"danmu":true
 			},
 			"style": {
 				"type": "rect",
-				"ratio": 0.7
+				"ratio": 0.8
 			}
 		},
-		{
-			"key":"Youtube",
-			"name":"Youtube",
-			"type":3,
-			"api": "csp_Youtube",
-			"searchable": 1,
-			"quickSearch": 0,
-			"changeable": 0,
-			"timeout": 120,
-			"ext":{
-				"token":"./lib/tokenm.json",
-				"json":"./lib/youtube.json",
-				"type":"直播#新闻#剧集#电影#综艺#纪录片#音乐#体育#动物#风光#放松#4K#HDR#movie#music#documentary#bbc documentary#national geographic documentary",
-				"keywords":"排行榜,HOT,TRENDS,热门话题,热门趋势,热门综艺,热门电影,热门电视剧,小姐姐",
-				"codecs":"",
-				"proxy":"proxy",
-				"danmu":true
-			},
-			"style": {
-				"type": "rect",
-				"ratio": 1.77
-			}
-		},
+
+
+
+{
+            "key": "TGDouban②",
+            "name": "🍋TG豆瓣②",
+            "type": 3,
+            "api": "csp_TGDouban",
+            "timeout": 120,
+            "ext": {
+                "token": "./lib/tokenm.json",
+                "json": "./lib/tgsearch.json",
+                "keywords": "名称,片名,推荐",
+                "tgsearch_url": "http://tg.fish2018.ip-ddns.com",
+                "tgsearch_media_url": "http://tg.fish2018.ip-ddns.com",
+                "channellist": "tianyi_pd2,tianyirigeng,tyypzhpd,cloudtianyi,kuakeclound,alypzyhzq,Quark_Share_Channel,Aliyundrive_Share_Channel,wanwansubchat,pan123pan,zyfb123,zyzhpd123,xx123pan,dianyingshare,XiangxiuNB,leoziyuan,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,yunpanshare,shareAliyun,ikiviyyp,alyp_1,quanziyuanshe,tgsearchers,ydyp888,NewQuark,MCPH860,joinchat/AAAAAEhkwtQjONQXe--Z8g",
+                "proxy": "noproxy",
+                "douban": "./lib/douban.json",
+                "danmu": true
+            },
+            "style": {
+                "type": "rect",
+                "ratio": 0.8
+            }
+        },	
+
+
+
+
+		
 		{
 			"key": "网盘配置",
 			"name": "网盘及彈幕配置",
