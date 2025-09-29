@@ -124,6 +124,25 @@
 			}
 		},
 		{"key":"Local","name":"🗂本地","type":3,"api":"csp_Local"},
+
+
+
+{      "key": "永乐_py", 
+       "name": "🎬永乐_py",
+       "type": 3, 
+       "searchable": 1, 
+       "quickSearch": 1,
+       "filterable": 1, 
+       "api": "https://534024916@qq.com:ai8z57dgabmqug4r@dav.jianguoyun.com/dav/py/永乐视频.py",
+     "style": {
+                "type": "rect",
+                "ratio": 0.8
+            }
+          
+       
+   },
+
+
 	
 
   {
