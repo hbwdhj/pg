@@ -15,9 +15,9 @@
 
 
 
-	{
-        "key":"TGDouban①",
-        "name":"🎀TG豆瓣①",
+{
+        "key":"TGDouban",
+        "name":"🎀TG豆瓣",
         "type":3,
         "api":"csp_TGDouban",
         "timeout":120, 
@@ -27,7 +27,7 @@
 				"keywords":"名称,片名,推荐",
 				"tgsearch_url":"http://127.0.0.1:10199",
 				"tgsearch_media_url":"http://127.0.0.1:10199",
-				"channellist":"tgsearchers2,leoziyuan,ucpanpan,pan123pan,zyfb123,zyzhpd123,xx123pan,tianyi_pd2,tianyirigeng,tyypzhpd,cloudtianyi,kuakeclound,ydypzyfx,clouddriveresources,NewQuark,New_Sharing,alypzyhzq|1000,wanwansubchat|1000",
+				"channellist":"tgsearchers3,leoziyuan,peccxinpd,yydf_hzl,vip115hot,clouddriveresources,q66share,yggpan,xiangxiunbb,oscardianying,dianying4k,wfysfx02,quarkfree,ucwpzy,ucquark,mcph860,mcph608,xunleibl,taoxgzy,yunpanx,kkxlzy,mcph086,dianyingshare,quark_movies,zyfx2022,alyp_1,quanziyuanshe,hdhhd21,guoman4k,duan_ju,q_dianying,q_dianshiju,sharepanfilms,mcph01,jdjdn1111,panjclub,baicaozy,yunpan189,tianyirigeng,cloudtianyi,tyysypzypd,txtyzy,kuakeclound,tyypzhpd,zyfb123,xx123pan,zyzhpd123,yingshifenxiang123,yp123pan,wp123zy115:oneonefivewpfx,lsp115,qukanmovie,channel_shares_115,share4115,ysxb48,aliyun:zaihuayun,sharealiyun,aliyun_4k_movies,aliyunys,qixingzhenren,yunpanuc,ucshare,ucwangpan",
 				"proxy":"noproxy",
 				"douban":"./lib/douban.json",
 				"danmu":true
@@ -40,51 +40,6 @@
 
 
 
-{
-            "key": "TGDouban②",
-            "name": "🍋TG豆瓣②",
-            "type": 3,
-            "api": "csp_TGDouban",
-            "timeout": 120,
-            "ext": {
-                "token": "./lib/tokenm.json",
-                "json": "./lib/tgsearch.json",
-                "keywords": "名称,片名,推荐",
-                "tgsearch_url": "http://tg.fish2018.ip-ddns.com",
-                "tgsearch_media_url": "http://tg.fish2018.ip-ddns.com",
-                "channellist": "tianyi_pd2,tianyirigeng,tyypzhpd,cloudtianyi,kuakeclound,alypzyhzq,Quark_Share_Channel,Aliyundrive_Share_Channel,wanwansubchat,pan123pan,zyfb123,zyzhpd123,xx123pan,dianyingshare,XiangxiuNB,leoziyuan,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,yunpanshare,shareAliyun,ikiviyyp,alyp_1,quanziyuanshe,tgsearchers,ydyp888,NewQuark,MCPH860,joinchat/AAAAAEhkwtQjONQXe--Z8g",
-                "proxy": "noproxy",
-                "douban": "./lib/douban.json",
-                "danmu": true
-            },
-            "style": {
-                "type": "rect",
-                "ratio": 0.8
-            }
-        },	
-		
-		
-   {
-            "key": "TGYunPanLocal123",
-            "name": "🍄TG123",
-            "type": 3,
-            "api": "csp_TGYunPanLocal",
-            "timeout": 60,
-            "ext": {
-                "token": "./lib/tokenm.json",
-                "json": "./lib/tgsearch.json",
-                "keywords": "名称,片名,推荐",
-                "tgsearch_url": "http://tg.fish2018.ip-ddns.com",
-                "tgsearch_media_url": "http://tg.fish2018.ip-ddns.com",
-                "channellist": "pan123pan,zyfb123,zyzhpd123,xx123pan",
-                "proxy": "noproxy",
-                "danmu": true
-            },
-            "style": {
-                "type": "rect",
-                "ratio": 0.8
-            }
-        },
 
 		
 		{
@@ -112,7 +67,7 @@
 		},
 		{
 			"key": "网盘配置",
-			"name": "👨‍🍳‍网盘配置",
+			"name": "👨‍🍳网盘配置",
 			"type": 3,
 			"api": "csp_Config",
 			"searchable": 0,
@@ -141,6 +96,27 @@
           
        
    },
+   
+   
+{
+            "key": "豆丁",
+            "name": "🥔豆丁丨APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "jar": "https://534024916@qq.com:ai8z57dgabmqug4r@dav.jianguoyun.com/dav/py/doud.jar",
+            "ext": {
+                "url": "http://45.66.157.77:9427",
+                "site": "",
+                "dataKey": "Xasdasd!123123dd",
+                "dataIv": "Xasdasd!123123dd",
+                "deviceId": "",
+                "version": "",
+                "ua": ""
+            }
+        },
+   
+   
 
 
 	
