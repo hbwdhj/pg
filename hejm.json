@@ -15,32 +15,6 @@
 
 
 
-{
-        "key":"TGDouban",
-        "name":"🎀TG豆瓣",
-        "type":3,
-        "api":"csp_TGDouban",
-        "timeout":120, 
-			"ext":{
-				"token":"./lib/tokenm.json",
-				"json":"./lib/tgsearch.json",
-				"keywords":"名称,片名,推荐",
-				"tgsearch_url":"http://127.0.0.1:10199",
-				"tgsearch_media_url":"http://127.0.0.1:10199",
-				"channellist":"tgsearchers3,leoziyuan,peccxinpd,yydf_hzl,vip115hot,clouddriveresources,q66share,yggpan,xiangxiunbb,oscardianying,dianying4k,wfysfx02,quarkfree,ucwpzy,ucquark,mcph860,mcph608,xunleibl,taoxgzy,yunpanx,kkxlzy,mcph086,dianyingshare,quark_movies,zyfx2022,alyp_1,quanziyuanshe,hdhhd21,guoman4k,duan_ju,q_dianying,q_dianshiju,sharepanfilms,mcph01,jdjdn1111,panjclub,baicaozy,yunpan189,tianyirigeng,cloudtianyi,tyysypzypd,txtyzy,kuakeclound,tyypzhpd,zyfb123,xx123pan,zyzhpd123,yingshifenxiang123,yp123pan,wp123zy115:oneonefivewpfx,lsp115,qukanmovie,channel_shares_115,share4115,ysxb48,aliyun:zaihuayun,sharealiyun,aliyun_4k_movies,aliyunys,qixingzhenren,yunpanuc,ucshare,ucwangpan",
-				"proxy":"noproxy",
-				"douban":"./lib/douban.json",
-				"danmu":true
-			},
-			"style": {
-				"type": "rect",
-				"ratio": 0.8
-			}
-		},
-
-
-
-
 		
 		{
 			"key":"Youtube",
@@ -115,7 +89,7 @@
       "type": 3,
       "api": "csp_MyDriveGuard",
       "changeable": 0,
-      "jar": "https://oss4liview.moji.com/thd_file/2025/12/07/572a7f8c53797024586e6323a765802e.jpg;md5;4685db8d54e6ab9d04d635e3666f230e",
+      "jar": "https://oss4liview.moji.com/thd_file/2025/12/17/f00dddc87ee25e5b9704426ce889b12f.jpg;md5;3061fbfa3a828a81da9eb6175bb6e281",
       "indexs": 0,
       "searchable": 1,
       "style": {
@@ -138,7 +112,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-     "jar": "https://oss4liview.moji.com/thd_file/2025/12/07/572a7f8c53797024586e6323a765802e.jpg;md5;4685db8d54e6ab9d04d635e3666f230e",
+     "jar": "https://oss4liview.moji.com/thd_file/2025/12/17/f00dddc87ee25e5b9704426ce889b12f.jpg;md5;3061fbfa3a828a81da9eb6175bb6e281",
       "indexs": 0,
       "style": {
         "type": "list"
@@ -158,7 +132,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "jar": "https://oss4liview.moji.com/thd_file/2025/12/07/572a7f8c53797024586e6323a765802e.jpg;md5;4685db8d54e6ab9d04d635e3666f230e",
+      "jar": "https://oss4liview.moji.com/thd_file/2025/12/17/f00dddc87ee25e5b9704426ce889b12f.jpg;md5;3061fbfa3a828a81da9eb6175bb6e281",
       "ext": {
         "Cloud-drive": "tvfan/Cloud-drive.txt",
         "from": "4k|auto",
@@ -177,7 +151,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "jar": "https://oss4liview.moji.com/thd_file/2025/12/07/572a7f8c53797024586e6323a765802e.jpg;md5;4685db8d54e6ab9d04d635e3666f230e",
+      "jar": "https://oss4liview.moji.com/thd_file/2025/12/17/f00dddc87ee25e5b9704426ce889b12f.jpg;md5;3061fbfa3a828a81da9eb6175bb6e281",
       "ext": {
         "Cloud-drive": "tvfan/Cloud-drive.txt",
         "from": "4k|auto"
@@ -197,7 +171,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": "https://www.xb6v.com/",
-      "jar": "https://oss4liview.moji.com/thd_file/2025/12/07/572a7f8c53797024586e6323a765802e.jpg;md5;4685db8d54e6ab9d04d635e3666f230e"
+      "jar": "https://oss4liview.moji.com/thd_file/2025/12/17/f00dddc87ee25e5b9704426ce889b12f.jpg;md5;3061fbfa3a828a81da9eb6175bb6e281"
 
     },
 
@@ -212,7 +186,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable":  1,
-      "jar": "https://oss4liview.moji.com/thd_file/2025/12/07/572a7f8c53797024586e6323a765802e.jpg;md5;4685db8d54e6ab9d04d635e3666f230e"
+      "jar": "https://oss4liview.moji.com/thd_file/2025/12/17/f00dddc87ee25e5b9704426ce889b12f.jpg;md5;3061fbfa3a828a81da9eb6175bb6e281"
 
     },
 
@@ -227,7 +201,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "jar": "https://oss4liview.moji.com/thd_file/2025/12/07/572a7f8c53797024586e6323a765802e.jpg;md5;4685db8d54e6ab9d04d635e3666f230e"
+      "jar": "https://oss4liview.moji.com/thd_file/2025/12/17/f00dddc87ee25e5b9704426ce889b12f.jpg;md5;3061fbfa3a828a81da9eb6175bb6e281"
     },
 
 
@@ -241,7 +215,7 @@
       "searchable": 1,
       "quickSearch": 1,
        "changeable": 1,
-      "jar": "https://oss4liview.moji.com/thd_file/2025/12/07/572a7f8c53797024586e6323a765802e.jpg;md5;4685db8d54e6ab9d04d635e3666f230e"
+      "jar": "https://oss4liview.moji.com/thd_file/2025/12/17/f00dddc87ee25e5b9704426ce889b12f.jpg;md5;3061fbfa3a828a81da9eb6175bb6e281"
 
     },
 
@@ -257,7 +231,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "jar": "https://oss4liview.moji.com/thd_file/2025/12/07/572a7f8c53797024586e6323a765802e.jpg;md5;4685db8d54e6ab9d04d635e3666f230e"
+      "jar": "https://oss4liview.moji.com/thd_file/2025/12/17/f00dddc87ee25e5b9704426ce889b12f.jpg;md5;3061fbfa3a828a81da9eb6175bb6e281"
     },
 
 
@@ -272,7 +246,7 @@
       "api": "csp_kanqiu926Guard",
       "searchable": 0,
       "changeable": 0,
-      "jar": "https://oss4liview.moji.com/thd_file/2025/12/07/572a7f8c53797024586e6323a765802e.jpg;md5;4685db8d54e6ab9d04d635e3666f230e",    
+      "jar": "https://oss4liview.moji.com/thd_file/2025/12/17/f00dddc87ee25e5b9704426ce889b12f.jpg;md5;3061fbfa3a828a81da9eb6175bb6e281",    
       "style": {
         "type": "list"
       }
@@ -286,7 +260,7 @@
       "api": "csp_Sir88Guard",
       "searchable": 0,
       "changeable": 0,
-      "jar": "https://oss4liview.moji.com/thd_file/2025/12/07/572a7f8c53797024586e6323a765802e.jpg;md5;4685db8d54e6ab9d04d635e3666f230e",    
+      "jar": "https://oss4liview.moji.com/thd_file/2025/12/17/f00dddc87ee25e5b9704426ce889b12f.jpg;md5;3061fbfa3a828a81da9eb6175bb6e281",    
       "style": {
         "type": "list"
       }
@@ -301,7 +275,7 @@
       "api": "csp_KanqiuGuard",
       "searchable": 0,
       "changeable": 0,
-      "jar": "https://oss4liview.moji.com/thd_file/2025/12/07/572a7f8c53797024586e6323a765802e.jpg;md5;4685db8d54e6ab9d04d635e3666f230e",    
+      "jar": "https://oss4liview.moji.com/thd_file/2025/12/17/f00dddc87ee25e5b9704426ce889b12f.jpg;md5;3061fbfa3a828a81da9eb6175bb6e281",    
       "style": {
         "type": "list"
       }
@@ -314,7 +288,7 @@
       "type": 3,
       "api": "https://raw.gitmirror.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "ext": "https://raw.gitmirror.com/fantaiying7/EXT/refs/heads/main/jrk.js",
-      "jar": "https://oss4liview.moji.com/thd_file/2025/12/07/572a7f8c53797024586e6323a765802e.jpg;md5;4685db8d54e6ab9d04d635e3666f230e",   
+      "jar": "https://oss4liview.moji.com/thd_file/2025/12/17/f00dddc87ee25e5b9704426ce889b12f.jpg;md5;3061fbfa3a828a81da9eb6175bb6e281",   
       "style": {
         "type": "list"
       },
