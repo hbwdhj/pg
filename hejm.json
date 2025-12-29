@@ -89,7 +89,7 @@
       "type": 3,
       "api": "csp_MyDriveGuard",
       "changeable": 0,
-      "jar": "https://oss4liview.moji.com/thd_file/2025/12/17/f00dddc87ee25e5b9704426ce889b12f.jpg;md5;3061fbfa3a828a81da9eb6175bb6e281",
+      "jar": "https://oss4liview.moji.com/thd_file/2025/12/21/8b312080f190b1128abf9159f3a41965.jpg;md5;9b3e327c02439fe4e1d6223beca9ed17",
       "indexs": 0,
       "searchable": 1,
       "style": {
@@ -112,7 +112,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-     "jar": "https://oss4liview.moji.com/thd_file/2025/12/17/f00dddc87ee25e5b9704426ce889b12f.jpg;md5;3061fbfa3a828a81da9eb6175bb6e281",
+     "jar": "https://oss4liview.moji.com/thd_file/2025/12/21/8b312080f190b1128abf9159f3a41965.jpg;md5;9b3e327c02439fe4e1d6223beca9ed17",
       "indexs": 0,
       "style": {
         "type": "list"
@@ -132,7 +132,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "jar": "https://oss4liview.moji.com/thd_file/2025/12/17/f00dddc87ee25e5b9704426ce889b12f.jpg;md5;3061fbfa3a828a81da9eb6175bb6e281",
+      "jar": "https://oss4liview.moji.com/thd_file/2025/12/21/8b312080f190b1128abf9159f3a41965.jpg;md5;9b3e327c02439fe4e1d6223beca9ed17",
       "ext": {
         "Cloud-drive": "tvfan/Cloud-drive.txt",
         "from": "4k|auto",
@@ -151,7 +151,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "jar": "https://oss4liview.moji.com/thd_file/2025/12/17/f00dddc87ee25e5b9704426ce889b12f.jpg;md5;3061fbfa3a828a81da9eb6175bb6e281",
+      "jar": "https://oss4liview.moji.com/thd_file/2025/12/21/8b312080f190b1128abf9159f3a41965.jpg;md5;9b3e327c02439fe4e1d6223beca9ed17",
       "ext": {
         "Cloud-drive": "tvfan/Cloud-drive.txt",
         "from": "4k|auto"
@@ -171,7 +171,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": "https://www.xb6v.com/",
-      "jar": "https://oss4liview.moji.com/thd_file/2025/12/17/f00dddc87ee25e5b9704426ce889b12f.jpg;md5;3061fbfa3a828a81da9eb6175bb6e281"
+      "jar": "https://oss4liview.moji.com/thd_file/2025/12/21/8b312080f190b1128abf9159f3a41965.jpg;md5;9b3e327c02439fe4e1d6223beca9ed17"
 
     },
 
@@ -186,7 +186,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable":  1,
-      "jar": "https://oss4liview.moji.com/thd_file/2025/12/17/f00dddc87ee25e5b9704426ce889b12f.jpg;md5;3061fbfa3a828a81da9eb6175bb6e281"
+      "jar": "https://oss4liview.moji.com/thd_file/2025/12/21/8b312080f190b1128abf9159f3a41965.jpg;md5;9b3e327c02439fe4e1d6223beca9ed17"
 
     },
 
@@ -201,7 +201,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "jar": "https://oss4liview.moji.com/thd_file/2025/12/17/f00dddc87ee25e5b9704426ce889b12f.jpg;md5;3061fbfa3a828a81da9eb6175bb6e281"
+      "jar": "https://oss4liview.moji.com/thd_file/2025/12/21/8b312080f190b1128abf9159f3a41965.jpg;md5;9b3e327c02439fe4e1d6223beca9ed17"
     },
 
 
@@ -215,7 +215,7 @@
       "searchable": 1,
       "quickSearch": 1,
        "changeable": 1,
-      "jar": "https://oss4liview.moji.com/thd_file/2025/12/17/f00dddc87ee25e5b9704426ce889b12f.jpg;md5;3061fbfa3a828a81da9eb6175bb6e281"
+      "jar": "https://oss4liview.moji.com/thd_file/2025/12/21/8b312080f190b1128abf9159f3a41965.jpg;md5;9b3e327c02439fe4e1d6223beca9ed17"
 
     },
 
@@ -231,7 +231,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "jar": "https://oss4liview.moji.com/thd_file/2025/12/17/f00dddc87ee25e5b9704426ce889b12f.jpg;md5;3061fbfa3a828a81da9eb6175bb6e281"
+      "jar": "https://oss4liview.moji.com/thd_file/2025/12/21/8b312080f190b1128abf9159f3a41965.jpg;md5;9b3e327c02439fe4e1d6223beca9ed17"
     },
 
 
@@ -239,63 +239,55 @@
 
 
 
-      {
-      "key": "926",
-      "name": "⚽926┃看球",
+        {
+      "key": "超全",
+      "name": "⚽超全┃看球",
       "type": 3,
-      "api": "csp_kanqiu926Guard",
+      "api": "csp_ZbzGuard",
       "searchable": 0,
+      "quickSearch": 0,
       "changeable": 0,
-      "jar": "https://oss4liview.moji.com/thd_file/2025/12/17/f00dddc87ee25e5b9704426ce889b12f.jpg;md5;3061fbfa3a828a81da9eb6175bb6e281",    
+      "jar": "https://oss4liview.moji.com/thd_file/2025/12/21/8b312080f190b1128abf9159f3a41965.jpg;md5;9b3e327c02439fe4e1d6223beca9ed17", 
       "style": {
         "type": "list"
-      }
+      },
+      "ext": "uqGL1fpJNAUf8fdTwZCE5qSp+Q=="
     },
-    
-    
+
+
+
+
     {
       "key": "88",
       "name": "⚽88┃看球",
       "type": 3,
       "api": "csp_Sir88Guard",
+      "timeout": 10,
       "searchable": 0,
       "changeable": 0,
-      "jar": "https://oss4liview.moji.com/thd_file/2025/12/17/f00dddc87ee25e5b9704426ce889b12f.jpg;md5;3061fbfa3a828a81da9eb6175bb6e281",    
+      "jar": "https://oss4liview.moji.com/thd_file/2025/12/21/8b312080f190b1128abf9159f3a41965.jpg;md5;9b3e327c02439fe4e1d6223beca9ed17", 
       "style": {
         "type": "list"
       }
     },
-    
-    
-    
+
+
+
+
     {
       "key": "看球",
-      "name": "⚽看球┃直播",
+      "name": "⚽手机┃看球",
       "type": 3,
       "api": "csp_KanqiuGuard",
+      "timeout": 10,
       "searchable": 0,
       "changeable": 0,
-      "jar": "https://oss4liview.moji.com/thd_file/2025/12/17/f00dddc87ee25e5b9704426ce889b12f.jpg;md5;3061fbfa3a828a81da9eb6175bb6e281",    
+      "jar": "https://oss4liview.moji.com/thd_file/2025/12/21/8b312080f190b1128abf9159f3a41965.jpg;md5;9b3e327c02439fe4e1d6223beca9ed17", 
       "style": {
         "type": "list"
       }
     },
     
-    
-    {
-      "key": "Jrsjs",
-      "name": "⚽ Jrs┃球迷",
-      "type": 3,
-      "api": "https://raw.gitmirror.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
-      "ext": "https://raw.gitmirror.com/fantaiying7/EXT/refs/heads/main/jrk.js",
-      "jar": "https://oss4liview.moji.com/thd_file/2025/12/17/f00dddc87ee25e5b9704426ce889b12f.jpg;md5;3061fbfa3a828a81da9eb6175bb6e281",   
-      "style": {
-        "type": "list"
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
 
 
 
